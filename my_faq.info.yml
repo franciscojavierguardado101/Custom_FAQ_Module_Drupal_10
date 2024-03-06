@@ -1,0 +1,6 @@
+name: My FAQ Module
+description: "Provides a custom content type for frequently asked questions."
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+autoload:
+  path: src
